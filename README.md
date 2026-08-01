@@ -65,50 +65,12 @@ My interests include:
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-<a href="https://github.com/ravideltech/enterprise-product-analytics-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=enterprise-product-analytics-platform&theme=tokyonight&hide_border=true&show_owner=false"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/ravideltech/business-analysis-case-studies">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=business-analysis-case-studies&theme=tokyonight&hide_border=true&show_owner=false"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<a href="https://github.com/ravideltech/product-analytics-beauty-ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=product-analytics-beauty-ecommerce&theme=tokyonight&hide_border=true&show_owner=false"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<a href="https://github.com/ravideltech/Mutual-Fund-Business-Intelligence-Analytics-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=Mutual-Fund-Business-Intelligence-Analytics-Dashboard&theme=tokyonight&hide_border=true&show_owner=false"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| **🏢 [Enterprise Product Analytics Platform](https://github.com/ravideltech/enterprise-product-analytics-platform)** | Customer behavior, revenue analytics, retention, marketing KPIs and executive dashboards. | Python · SQL · Power BI |
+| **📊 [Business Analysis Case Studies](https://github.com/ravideltech/business-analysis-case-studies)** | Market entry strategy, profitability analysis, executive presentations and financial models. | Excel · SQL · Power BI |
+| **🛍 [Product Analytics – Beauty E-commerce](https://github.com/ravideltech/product-analytics-beauty-ecommerce)** | Customer journey, conversion funnel, retention, AOV and product KPI dashboards. | Python · SQL · Power BI |
+| **💰 [Mutual Fund Business Intelligence Dashboard](https://github.com/ravideltech/Mutual-Fund-Business-Intelligence-Analytics-Dashboard)** | NAV, SIP, CAGR, risk analysis, investment KPIs and interactive dashboards. | Python · SQL · Power BI |
 
 # 🛠 Tech Stack
 
@@ -160,13 +122,13 @@ My interests include:
 
 # 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravideltech&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravideltech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravideltech&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ravideltech&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
@@ -190,13 +152,14 @@ My interests include:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ravideltech&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</p>
+- 🎓 B.Tech in Electronics & Communication Engineering, Delhi Technological University (DTU)
+- 💼 Research Intern at DRDO (SSPL)
+- 📊 Built 5+ end-to-end analytics projects using Python, SQL, Excel & Power BI
+- 📈 Developed enterprise dashboards for Product Analytics, Business Intelligence & Financial Analytics
+- 📑 Authored a research paper on Comparative Sentiment Analysis of Consumer Opinions
+- 🚀 Passionate about solving business problems through data-driven decision making
 
 ---
 
