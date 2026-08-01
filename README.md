@@ -1,12 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 
 <h3 align="center">
-Data Analytics • Business Intelligence • Product Analytics
+Aspiring Data Analyst | Business Analyst | Product Analyst | Product Management
 </h3>
 
 <p align="center">
+Data-driven problem solver passionate about transforming raw data into actionable business insights.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Data+Analytics+Enthusiast;Business+Intelligence;Power+BI+Developer;Python+%7C+SQL+%7C+Excel;Turning+Data+Into+Insights"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Data+Analytics;Business+Analytics;Product+Analytics;Product+Management;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Business+Intelligence+Solutions;Turning+Data+into+Business+Decisions"/>
+</p>
+
+<p align="center">
+
+<a href="mailto:ravikr729089@gmail.com">
+<img src="https://img.shields.io/badge/Email-ravikr729089%40gmail.com-red?style=flat-square&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/ravikumardtu/">
+<img src="https://img.shields.io/badge/LinkedIn-Ravi%20Kumar-blue?style=flat-square&logo=linkedin">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=ravideltech&style=flat-square"/>
 
 </p>
 
@@ -14,90 +30,111 @@ Data Analytics • Business Intelligence • Product Analytics
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Electronics & Communication Engineering
+🎓 **B.Tech, Electronics & Communication Engineering**  
+📍 **Delhi Technological University (DTU)**
 
-🏫 Delhi Technological University (DTU)
+💼 **Research Intern @ DRDO (SSPL)**
 
-📊 Passionate about solving real-world business problems using data.
+I enjoy solving business problems through analytics, dashboard development, and data-driven decision making.
 
-💼 Research Intern @ DRDO (SSPL)
+My interests include:
 
-📈 Interested in
+- 📊 Data Analytics
+- 📈 Business Analytics
+- 🛍 Product Analytics
+- 🚀 Product Management
+- 📉 Business Intelligence
+- 📋 KPI & Dashboard Development
+- 🗄 SQL Analytics
+- 📦 ETL Pipelines
+- 📑 Business Reporting
 
-- Data Analytics
-- Product Analytics
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
-- SQL Analytics
+---
+
+# 💼 Experience
+
+### Research Intern — DRDO (SSPL)
+
+- Built interactive business dashboards
+- Developed SQL & Python ETL pipelines
+- Automated reporting workflows
+- Performed KPI analysis & visualization
+- Generated actionable business insights
 
 ---
 
 # 🚀 Featured Projects
 
-### 📊 Sales Performance Analytics
+## 🏢 Enterprise Product Analytics Platform
 
-Executive dashboard for sales, profit, customer segmentation, regional performance and KPIs.
-
-**Tech**
-
-Python • SQL • Power BI • Excel
+Business intelligence platform analyzing customer behaviour, revenue, retention, marketing performance and executive KPIs using SQL, Python and Power BI.
 
 ---
 
-### 🛍 Product Analytics
+## 📈 Sales Performance Analytics
 
-Customer Funnel Analysis
+Executive sales dashboard covering
 
-Retention
-
-Repeat Purchase
-
-Average Order Value
-
-Revenue Growth
-
-Product Performance
+- Revenue
+- Profit
+- Sales Trends
+- Regional Analysis
+- Product Performance
+- Customer Segmentation
+- Executive KPIs
 
 ---
 
-### 💰 Mutual Fund Analytics
+## 🛍 Product Analytics
 
-Risk Analysis
+Analytics solution focused on
 
-Fund Comparison
-
-CAGR
-
-SIP Calculator
-
-Interactive Dashboard
+- Customer Journey
+- Conversion Funnel
+- Cohort Analysis
+- Retention
+- Average Order Value
+- Revenue Growth
+- Product Performance
 
 ---
 
-### 🦠 COVID-19 Healthcare Analytics
+## 💰 Mutual Fund Business Intelligence
 
-100,000+ healthcare records analyzed
+Business dashboard featuring
 
-Regional Trends
+- NAV Analysis
+- SIP Calculator
+- CAGR
+- Fund Comparison
+- Risk Analysis
+- Performance Dashboard
 
-Healthcare KPIs
+---
 
-Power BI Dashboard
+## 🦠 COVID-19 Healthcare Analytics
+
+Analyzed 100,000+ healthcare records using Python, SQL and Power BI to generate healthcare insights and executive dashboards.
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+## Languages
 
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite"/>
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+## Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
@@ -109,7 +146,27 @@ Power BI Dashboard
 
 ---
 
-# 📈 GitHub Stats
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -145,38 +202,40 @@ Power BI Dashboard
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ravideltech&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ravideltech&theme=tokyonight&column=4&no-frame=true"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:ravikr729089@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://www.linkedin.com/in/ravikumardtu/">
+<img src="https://img.shields.io/badge/LinkedIn-Ravi%20Kumar-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 </p>
 
 ---
 
-# 👀 Visitors
+# 📌 Current Focus
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ravideltech&style=for-the-badge"/>
-
-</p>
+- 📊 Enterprise Analytics Platforms
+- 📈 Business Intelligence Dashboards
+- 🛍 Product Analytics
+- 💼 Business Case Studies
+- 📉 Financial Analytics
+- 🚀 Product Strategy & Product Management
 
 ---
 
-# ⭐ Quote
+# 💡 Quote
 
-> "Data beats opinions."
+> **"Without data, you're just another person with an opinion."**  
+> — W. Edwards Deming
