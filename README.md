@@ -89,8 +89,6 @@ My interests include:
 
 </p>
 
----
-
 # 🛠 Tech Stack
 
 ## Languages
