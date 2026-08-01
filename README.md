@@ -63,58 +63,31 @@ My interests include:
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏢 Enterprise Product Analytics Platform
+<p align="center">
 
-Business intelligence platform analyzing customer behaviour, revenue, retention, marketing performance and executive KPIs using SQL, Python and Power BI.
+<a href="https://github.com/ravideltech/enterprise-product-analytics-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=enterprise-product-analytics-platform&theme=tokyonight"/>
+</a>
 
----
+<a href="https://github.com/ravideltech/business-analysis-case-studies">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=business-analysis-case-studies&theme=tokyonight"/>
+</a>
 
-## 📈 Sales Performance Analytics
+</p>
 
-Executive sales dashboard covering
+<p align="center">
 
-- Revenue
-- Profit
-- Sales Trends
-- Regional Analysis
-- Product Performance
-- Customer Segmentation
-- Executive KPIs
+<a href="https://github.com/ravideltech/product-analytics-beauty-ecommerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=product-analytics-beauty-ecommerce&theme=tokyonight"/>
+</a>
 
----
+<a href="https://github.com/ravideltech/Mutual-Fund-Business-Intelligence-Analytics-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=Mutual-Fund-Business-Intelligence-Analytics-Dashboard&theme=tokyonight"/>
+</a>
 
-## 🛍 Product Analytics
-
-Analytics solution focused on
-
-- Customer Journey
-- Conversion Funnel
-- Cohort Analysis
-- Retention
-- Average Order Value
-- Revenue Growth
-- Product Performance
-
----
-
-## 💰 Mutual Fund Business Intelligence
-
-Business dashboard featuring
-
-- NAV Analysis
-- SIP Calculator
-- CAGR
-- Fund Comparison
-- Risk Analysis
-- Performance Dashboard
-
----
-
-## 🦠 COVID-19 Healthcare Analytics
-
-Analyzed 100,000+ healthcare records using Python, SQL and Power BI to generate healthcare insights and executive dashboards.
+</p>
 
 ---
 
@@ -202,7 +175,7 @@ Analyzed 100,000+ healthcare records using Python, SQL and Power BI to generate 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ravideltech&theme=tokyonight&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ravideltech&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </p>
 
