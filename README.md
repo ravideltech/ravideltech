@@ -65,29 +65,50 @@ My interests include:
 
 ## 🚀 Featured Projects
 
-<p align="center">
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 <a href="https://github.com/ravideltech/enterprise-product-analytics-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=enterprise-product-analytics-platform&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=enterprise-product-analytics-platform&theme=tokyonight&hide_border=true&show_owner=false"/>
 </a>
+
+</td>
+
+<td width="50%">
 
 <a href="https://github.com/ravideltech/business-analysis-case-studies">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=business-analysis-case-studies&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=business-analysis-case-studies&theme=tokyonight&hide_border=true&show_owner=false"/>
 </a>
 
-</p>
+</td>
 
-<p align="center">
+</tr>
+
+<tr>
+
+<td width="50%">
 
 <a href="https://github.com/ravideltech/product-analytics-beauty-ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=product-analytics-beauty-ecommerce&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=product-analytics-beauty-ecommerce&theme=tokyonight&hide_border=true&show_owner=false"/>
 </a>
+
+</td>
+
+<td width="50%">
 
 <a href="https://github.com/ravideltech/Mutual-Fund-Business-Intelligence-Analytics-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=Mutual-Fund-Business-Intelligence-Analytics-Dashboard&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ravideltech&repo=Mutual-Fund-Business-Intelligence-Analytics-Dashboard&theme=tokyonight&hide_border=true&show_owner=false"/>
 </a>
 
-</p>
+</td>
+
+</tr>
+
+</table>
 
 # 🛠 Tech Stack
 
